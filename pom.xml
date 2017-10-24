@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>net.moaikids</groupId>
-	<artifactId>sada4java</artifactId>
-	<version>0.0.2</version>
+	<artifactId>sada4j</artifactId>
+	<version>0.0.3</version>
 	<packaging>jar</packaging>
 
-	<name>sada4java</name>
+	<name>sada4j</name>
 	<description>Mock</description>
 
     <repositories>
